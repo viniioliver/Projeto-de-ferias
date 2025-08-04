@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+analise_meteorologica_para_powerbi.csv filter=lfs diff=lfs merge=lfs -text
